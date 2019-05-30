@@ -13,7 +13,7 @@ for i in range(2, len(tds), 17):
     questions.append(" ".join(text[0:-1]))
     answers.append(text[-1][1:-1])
 
-jawn = "\", \"".join(questions)
+jawn = "\", \"".join(answers)
 print(f"[\"{jawn}\"]")
 
 correct = 0

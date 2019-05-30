@@ -15,9 +15,7 @@ html, body {
   overflow: hidden;
   text-align: center;
   position: relative;
-  background-color: #ff665b;
-  background-color: #9fff5b;
-  background-color: #c6fff8;
+  background-color: #d8f9ff;
 }
 
 #content {
@@ -26,7 +24,7 @@ html, body {
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 3em;
-  background-color: white;
+  background-color: #fcfcfc;
   font-family: 'Work Sans', sans-serif;
 }
 
@@ -48,7 +46,7 @@ input[type=text] {
 }
 
 input[type=text]:focus {
-  background-color: lightblue;
+  background-color: #f5fcff;
 }
 
 button {

@@ -20,3 +20,8 @@ If they got it wrong, they will have the option to say "Hey, I was right!"
 Silently mark answers that are starkly different from the correct response and who have chosen "I was right!"
 
 After clicking next question, they are greeted with the next question, and repeat
+
+
+During the normal game, there will be a question displayed and an answer box.  On submit, the background should change color depending on correctness, as well as the text box background, and the submit button should change to a next question button.  
+There should be a p block that appears above the question mentioning correctness.
+A button should appear that would let the user override the 
